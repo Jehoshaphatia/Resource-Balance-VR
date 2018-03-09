@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ff0f08ec066f4a21a5b64505b6440ac, type: 3}
+  m_Name: StdTileDatabase
+  m_EditorClassIdentifier: 
+  waterTile: {fileID: 11400000, guid: 19905b034f3274d1b87f7d67f5a5169b, type: 2}
+  mountainTile: {fileID: 11400000, guid: d78c53482848a497c9b570d2969b3388, type: 2}
+  treesTile: {fileID: 11400000, guid: c8776b2e592cf42528c08fea46dbf52f, type: 2}
+  dirtTile: {fileID: 11400000, guid: a0647094e5027465ca6ad1f7b0dccd40, type: 2}
+  pollutedWaterTile: {fileID: 11400000, guid: 61d8dc2a24c574555b47aebf79ad1237, type: 2}
+  depletedTile: {fileID: 11400000, guid: e8362d460c0da420085743db324c4745, type: 2}
+  powerPlantTile: {fileID: 11400000, guid: 39045482ad288411295d4420cdbaaf68, type: 2}
+  cityTile: {fileID: 11400000, guid: 28a3001bc9cd444de885cfbb498a0a5d, type: 2}

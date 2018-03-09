@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9fc865d4951694e0fb6369616b36961a
+timeCreated: 1520600389
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gvrAudioSource: {instanceID: 0}
+  - mineMountainAudioClip: {fileID: 8300000, guid: 9f6ed022fe3984c7b83983cad8cc3302,
+      type: 3}
+  - mineTreesAudioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

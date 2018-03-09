@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 179ea6cd7589f4f3995a78325304eb7a, type: 3}
+  m_Name: Trees
+  m_EditorClassIdentifier: 
+  displayName: Trees
+  code: 84
+  goldCost: 1
+  oreCost: 0
+  woodCost: 0
+  oreYield: 0
+  woodYield: 2
+  goldProduction: 0
+  prosperityContribution: 0
+  prosperityMultiplier: 1
